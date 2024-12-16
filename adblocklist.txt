@@ -1,7 +1,6 @@
 # DISCLAIMER:  The following list of links is intended to be used solely for the purpose of coding an ad blocker. These websites are known to contain malicious ads, and the links provided are not to be used for any illegal activities. I am not the owner of any content on these websites, including any streaming content. This list is provided strictly for the development of an ad blocker.
 
 https://thetvapp.to/
-https://thetvapp.to/
 https://popcorntimeonline.cc
 https://hianime.to/
 https://www4.hurawatch.org/
@@ -30,3 +29,4 @@ https://prostreamar.blogspot.com/
 https://vstream.store/
 https://roxiestreams.pro/
 https://tikitakatv.net/
+https://thetvapp.to/
